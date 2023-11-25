@@ -1,0 +1,140 @@
+/* BOX DIMENSION*/
+/* div.one{
+
+    height: 500px;
+    width: 200px;
+    background-color: wheat;
+}  
+
+p{
+    width: 20%;
+} */
+
+/* LIMITING WIDTH */
+/* td.description {
+    min-width: 450px;
+    max-width: 650px;
+    text-align: left;
+    padding: 5px;
+    margin: 0px;
+} */
+
+/* lIMITING HEIGHT */
+/* h2, p {
+    width: 400px;
+    font-size: 90%;
+    line-height: 1.2em;
+}
+
+h2 {
+    color: #0088dd;
+    border-bottom: 1px solid #0088dd;
+}
+
+p{
+    max-height: 250px;
+    border: 1px solid red;
+} */
+
+/* OVERFLOW */
+/* 
+p{
+    max-height: 50px;
+    border: 1px solid red;
+    overflow: scroll;
+}  */
+
+/* BORDER WIDTH */
+/* one by one */
+/* p{
+   border-top-width: 1px;
+   border-right-width: 2px;
+   border-bottom-width: 3px;
+   border-bottom-width: 4px;
+} */
+
+/* short hand */
+/* p{
+    border-style: solid; */
+    /* border: 1px 2px 3px 4px; clockwise->top right bottom left } */ 
+
+/* BORDER-STYLE */
+/* solid, dashed, dotted, double, groove, inset, outset, ridge etc */
+/* p{
+    border-style: dashed;
+    border-color: red;
+} */
+
+/* Border Shorthand */
+/* p{
+    border: 12px solid red;
+} */
+
+/* Padding */
+
+/* p{
+    border: 2px solid red;
+} */
+
+/* MARGIN */
+/* p{
+    border: 2px solid red;
+}
+
+#p2{
+    margin-top: 200px;
+} */
+
+/* Centering Content */
+/* p{
+   border: 2px solid red;
+   width: 300px;
+   padding: 50px; 
+}
+
+.example {
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+/* Change Inline Block*/
+/* li{
+    display: inline-block;
+    margin-right: 10px;
+}
+li.coming-soon{
+       visibility: hidden;
+} */
+
+/* Border Images*/
+/* .one{
+    border: 20px solid transparent;
+    border-image: url(./Images/connect-the-dots.png) 30 repeat;
+    padding: 10px;
+} */
+
+/* Box Shadow */
+/* .one{
+    box-shadow: 0 0 10px red;
+
+} */
+
+/* Rounded Corners */
+/* body{
+    background-color: black;
+}
+
+p{
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+
+} */
+
+/* img{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 50%;
+} */
